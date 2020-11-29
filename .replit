@@ -1,2 +1,2 @@
 language = "python3"
-run = "python simplegame/guessing_game.py"
+run = "python lab6/example2.py"
